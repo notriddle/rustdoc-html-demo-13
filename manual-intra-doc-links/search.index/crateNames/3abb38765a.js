@@ -1,0 +1,1 @@
+rd_("oexternal_constsmexternal_itemdtest")

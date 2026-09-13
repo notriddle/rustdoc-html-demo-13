@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["_external_foo"],"mod":["module"],"struct":["_ExternalStruct"]};

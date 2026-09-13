@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["mod_2"],"struct":["DocsrsLinkExtern","DocsrsLinkUse","FooBar","RelativeLinkExtern","RelativeLinkLocalChildModItem","RelativeLinkLocalModule","RelativeLinkLocalParentCrate","RelativeLinkLocalParentItem","RelativeLinkLocalRoot","RelativeLinkLocalSubmoduleItem","RelativeLinkUse"]};
