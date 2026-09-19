@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["mult_vec_num","subt_vec_num"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Struct","Struct2"],"trait":["TraitToReexport","Whatever"]};

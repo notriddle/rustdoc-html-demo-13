@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["NotableTraitColors"],"trait":["Blue","Cyan","Green","Grey","Magenta","Red","Transparent","Yellow"]};
